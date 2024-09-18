@@ -1116,7 +1116,6 @@ var playerInstance = jwplayer("jwplayerDiv");
       }
     });
   }
-
 // Function to switch to another stream with M3U8 URL and no DRM
   function switchToOtherStream1() {
     playerInstance.setup({
@@ -1137,56 +1136,49 @@ var playerInstance = jwplayer("jwplayerDiv");
     file: "https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8",
     type: "hls",  // Set the type to HLS for M3U8 URLs
   });
-  }
-
+   }
 // Function to switch to another stream with M3U8 URL and no DRM
    function switchToOtherStream4() {
   playerInstance.setup({
     file: "https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8",
     type: "hls",  // Set the type to HLS for M3U8 URLs
   });
-  }
-
+   }
 // Function to switch to another stream with M3U8 URL and no DRM
    function switchToOtherStream5() {
   playerInstance.setup({
     file: "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8",
     type: "hls",  // Set the type to HLS for M3U8 URLs
   });
-  }
-
+   }
 // Function to switch to another stream with M3U8 URL and no DRM
    function switchToOtherStream6() {
   playerInstance.setup({
     file: "https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8",
     type: "hls",  // Set the type to HLS for M3U8 URLs
   });
-  }
-
+   }
 // Function to switch to another stream with M3U8 URL and no DRM
    function switchToOtherStream7() {
   playerInstance.setup({
     file: "https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8",
     type: "hls",  // Set the type to HLS for M3U8 URLs
   });
-  }
-
+   }
 // Function to switch to another stream with M3U8 URL and no DRM
    function switchToOtherStream8() {
   playerInstance.setup({
     file: "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/chunks.m3u8",
     type: "hls",  // Set the type to HLS for M3U8 URLs
   });
-  }
-
+   }
 // Function to switch to another stream with M3U8 URL and no DRM
    function switchToOtherStream9() {
   playerInstance.setup({
     file: "https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8",
     type: "hls",  // Set the type to HLS for M3U8 URLs
   });
-  }
-
+   }
 // Function to switch to another stream with M3U8 URL and no DRM
    function switchToOtherStream10() {
   playerInstance.setup({
@@ -1194,113 +1186,98 @@ var playerInstance = jwplayer("jwplayerDiv");
 ",
     type: "hls",  // Set the type to HLS for M3U8 URLs
   });
-  }
-
+   }
 // Function to switch to another stream with M3U8 URL and no DRM
    function switchToOtherStream11() {
   playerInstance.setup({
     file: "https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8",
     type: "hls",  // Set the type to HLS for M3U8 URLs
   });
-  }
-
+   }
 // Function to switch to another stream with M3U8 URL and no DRM
    function switchToOtherStream12() {
   playerInstance.setup({
     file: "https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8",
     type: "hls",  // Set the type to HLS for M3U8 URLs
   });
-  }
-
+   }
 // Function to switch to another stream with M3U8 URL and no DRM
    function switchToOtherStream13() {
   playerInstance.setup({
     file: "https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8",
     type: "hls",  // Set the type to HLS for M3U8 URLs
   });
-  }
-
+   }
 // Function to switch to another stream with M3U8 URL and no DRM
    function switchToOtherStream14() {
   playerInstance.setup({
     file: "https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8",
     type: "hls",  // Set the type to HLS for M3U8 URLs
   });
-  }
-
+   }
 // Function to switch to another stream with M3U8 URL and no DRM
    function switchToOtherStream15() {
   playerInstance.setup({
     file: "https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8",
     type: "hls",  // Set the type to HLS for M3U8 URLs
   });
-  }
-
+   }
 // Function to switch to another stream with M3U8 URL and no DRM
    function switchToOtherStream16() {
   playerInstance.setup({
     file: "https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/2000.m3u8",
     type: "hls",  // Set the type to HLS for M3U8 URLs
   });
-  }
-
+   }
 // Function to switch to another stream with M3U8 URL and no DRM
    function switchToOtherStream17() {
   playerInstance.setup({
     file: "https://rakuten-comedy-8-nl.samsung.wurl.tv/playlist.m3u8",
     type: "hls",  // Set the type to HLS for M3U8 URLs
   });
-  }
-
+   }
 // Function to switch to another stream with M3U8 URL and no DRM
    function switchToOtherStream18() {
   playerInstance.setup({
     file: "https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8",
     type: "hls",  // Set the type to HLS for M3U8 URLs
   });
-  }
-
+   }
 // Function to switch to another stream with M3U8 URL and no DRM
    function switchToOtherStream19() {
   playerInstance.setup({
     file: "https://rakuten-family-1-eu.rakuten.wurl.tv/2000.m3u8",
     type: "hls",  // Set the type to HLS for M3U8 URLs
   });
-  }
-
+   }
 // Function to switch to another stream with M3U8 URL and no DRM
    function switchToOtherStream20() {
   playerInstance.setup({
     file: "https://rakuten-topfree-1-eu.rakuten.wurl.tv/2000.m3u8",
     type: "hls",  // Set the type to HLS for M3U8 URLs
   });
-  }
-
+   }
 // Function to switch to another stream with M3U8 URL and no DRM
    function switchToOtherStream21() {
   playerInstance.setup({
     file: "https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8",
     type: "hls",  // Set the type to HLS for M3U8 URLs
   });
-  }
-
+   }
 // Function to switch to another stream with M3U8 URL and no DRM
    function switchToOtherStream22() {
   playerInstance.setup({
     file: "https://myxnola-abscbn-ono.amagi.tv/index.m3u8",
     type: "hls",  // Set the type to HLS for M3U8 URLs
   });
-  }
-
+   }
 // Function to switch to another stream with M3U8 URL and no DRM
    function switchToOtherStream23() {
   playerInstance.setup({
     file: "https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8",
     type: "hls",  // Set the type to HLS for M3U8 URLs
   });
-  }
-
-
+   }
    function switchToDRM() {
      playerInstance.setup({
          file: "#",
